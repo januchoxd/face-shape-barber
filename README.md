@@ -7,3 +7,5 @@ Aplikacja mobilna cross-platformowa do rozpoznawania krztałtu twarzy i na tej p
 Aplikacja pisana w języku Dart
 
 google face recognition
+
+fdsa
